@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle rahasia-aplikasi-slot-online-gacor-jitu",
+        "command": "rahasia-aplikasi-slot-online-gacor-jitu:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "rahasia-aplikasi-slot-online-gacor-jitu",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "rahasia-aplikasi-slot-online-gacor-jitu:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

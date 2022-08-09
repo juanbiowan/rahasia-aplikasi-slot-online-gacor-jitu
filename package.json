@@ -1,0 +1,19 @@
+{
+  "name": "rahasia-aplikasi-slot-online-gacor-jitu",
+  "main": "./lib/rahasia-aplikasi-slot-online-gacor-jitu",
+  "version": "0.0.0",
+  "description": "rahasia aplikasi slot online gacor jitu",
+  "keywords": [
+    "aplikasi slot online","slot online","slot online gacor"
+  ],
+  "activationCommands": {
+    "atom-workspace": "rahasia-aplikasi-slot-online-gacor-jitu:toggle"
+  },
+  "repository": "https://github.com/juanbiowan/rahasia-aplikasi-slot-online-gacor-jitu",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
